@@ -1,0 +1,20 @@
+{
+  "": "node_modules/wrangler/config-schema.json",
+  "name": "hwcollectbot",
+  "main": "src/index.js",
+  "compatibility_date": "2024-09-23",
+  "kv_namespaces": [
+    {
+      "binding": "BOT_CACHE",
+      "id": "297bd90eae624aefac10e953fa1c83ef"
+    }
+  ],
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "homework-db",
+      "database_id": "80b19470-ab01-4e46-85cc-73af2b7ddd77"
+    }
+  ]
+}
+
